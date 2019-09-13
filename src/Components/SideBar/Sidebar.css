@@ -1,0 +1,16 @@
+.sideMain {
+    background-color: #f4f4f4;
+    display:flex;
+    flex-direction: column;
+    height: 100%;
+    width: 35vw;
+}
+
+.category, .topOption {
+    font-size: 1.3rem;
+    padding-bottom: 10px;
+}
+.Add {
+    font-size: 1.2rem;
+    opacity: .3;
+}

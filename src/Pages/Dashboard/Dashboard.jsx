@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css';
 import NavBar from './Components/Navigation/Navbar';
-import Sidebar from './Components/SideBar/Sidebar';
+import Sidebar from '../../Components/SideBar/Sidebar';
 
 
-function App() {
+function Dashboard() {
 
   return (
     
